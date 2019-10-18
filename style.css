@@ -1,0 +1,17 @@
+/* * {
+  background-color: lightgray;
+} */
+body {
+  background-color: bisque;
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+#tabl {
+  width: 600px;
+  text-align: center;
+  border-collapse: collapse;
+  background: aquamarine;
+}
